@@ -12,8 +12,8 @@ Problem
   Market strategy making
   House segmentation
   
-  There are two different Notebooks in the seperate folder. 
-  Both of them includes the outsource data to increase the columns.
-  
-  One is taking the venues in the neighborhoods into the prediction. (Scrapping from Foursquare)
-  The other is considering the most popular attractions and the number of subway station near the house listing.
+There are two different Notebooks in the seperate folder. 
+Both of them includes the outsource data to increase the columns.
+
+One is taking the venues in the neighborhoods into the prediction. (Scrapping from Foursquare)
+The other is considering the most popular attractions and the number of subway station near the house listing.
